@@ -25,6 +25,7 @@ Este sistema simplifica la gestión del inventario y ventas mediante una interfa
    * Ventanas o páginas para la generación de tickets detallados.
 3. **CONTROLADOR:**
    * Validación, control de flujo y llamadas a operaciones del modelo.
+   
 *CLIENTE*
 * Permite acceso desde navegadores.
 * Realiza solicitudes HTTP al servidor.
