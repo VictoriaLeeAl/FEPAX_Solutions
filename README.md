@@ -9,7 +9,7 @@ Proporciona las siguientes funcionalidades:
 * Generar tickets de las ventas
 
 ## Tabla de Contenidos
-1. [Resumen Ejecutivo](#resumen-ejecutivo)
+1. [Resumen Ejecutivo](#Resumen_Ejecutivo)
 2. [Requerimientos](#requerimientos)
 3. [Instalación](#instalación)
 4. [Configuración](#configuración)
