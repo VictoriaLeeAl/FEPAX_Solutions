@@ -10,10 +10,9 @@ Proporciona las siguientes funcionalidades:
 
 ## Tabla de Contenidos
 1. [Resumen Ejecutivo](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Resumen-Ejecutivo)
-2. [Requerimientos](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Requerimientos))
-3. [Instalación](#instalación)
-4. [Configuración](#configuración)
-5. [Uso](#uso)
-6. [Contribución](#contribución)
-7. [Roadmap](#roadmap)
+2. [Requerimientos](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Requerimientos)
+3. [Instalación](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Instalaci%C3%B3n)
+4. [Configuración](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Configuraci%C3%B3n)
+5. [Uso](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Uso)
+7. [Roadmap](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Roadmap)
 8. [Video de demostración](#video-de-demostración)
