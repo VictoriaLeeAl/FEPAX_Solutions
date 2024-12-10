@@ -9,7 +9,7 @@ Proporciona las siguientes funcionalidades:
 * Generar tickets de las ventas
 
 ## Tabla de Contenidos
-1. [Resumen Ejecutivo](#Resumen-Ejecutivo)
+1. [Resumen Ejecutivo](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Resumen-Ejecutivo)
 2. [Requerimientos](#requerimientos)
 3. [Instalación](#instalación)
 4. [Configuración](#configuración)
