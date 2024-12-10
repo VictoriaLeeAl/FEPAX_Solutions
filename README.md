@@ -10,7 +10,7 @@ Proporciona las siguientes funcionalidades:
 
 ## Tabla de Contenidos
 1. [Resumen Ejecutivo](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Resumen-Ejecutivo)
-2. [Requerimientos](#requerimientos)
+2. [Requerimientos](https://github.com/VictoriaLeeAl/FEPAX_Solutions/wiki/Requerimientos))
 3. [Instalación](#instalación)
 4. [Configuración](#configuración)
 5. [Uso](#uso)
